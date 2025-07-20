@@ -29,5 +29,5 @@ The Greenwood Community Library website includes the following pages:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/greenwood-library.git
-   cd greenwood-library
+   git clone https://github.com/OniSamuelOpeyemi/greenword-library-website.git
+   cd greenwood-library-website
